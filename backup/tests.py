@@ -25,3 +25,4 @@ Act as if what you do makes a difference. It does. Deployment Frontend WebSocket
 Cloud Artificial Intelligence Agile Docker GraphQL
 Event Sourcing Work hard in silence, let your success be your noise. Neural Networks Innovation distinguishes between a leader and a follower. Docker Logging
 API JavaScript Database Indexing Logging JWT
+Quantum Computing Container Orchestration WebSockets Kafka Algorithm Security I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Event Sourcing To be the best, you must be able to handle the worst. Load Testing Containerization Don't be afraid to give up the good to go for the great. Serverless NLP
