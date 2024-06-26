@@ -20,3 +20,4 @@ Big Data Load Balancing Database Indexing Algorithm Lambda Functions Containeriz
 Parallel Processing Container Orchestration Latency Optimization Work hard in silence, let your success be your noise. Artificial Intelligence
 OAuth Edge Computing Testing Virtual Machines API Simplicity is the ultimate sophistication. Content Delivery Network Great things never come from comfort zones. Zero Downtime Deployment Data Pipeline Artificial Intelligence
 RabbitMQ Docker IoT Kubernetes Innovation distinguishes between a leader and a follower. Pull Request A/B Testing
+Framework API Gateway Lambda Functions OAuth Event-driven Architecture Algorithm Kubernetes

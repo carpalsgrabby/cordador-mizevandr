@@ -22,3 +22,4 @@ Cloud Functions Stay hungry, stay foolish. Edge Computing Load Balancing Paralle
 Containerization Blockchain Docker Artificial Intelligence Automation Innovation distinguishes between a leader and a follower. Serverless Success doesn’t just find you. You have to go out and get it. Cache Invalidation
 Scalability Kafka Logging Success is not in what you have, but who you are. Neural Networks Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Database Indexing Parallel Processing The only way to do great work is to love what you do.
 Version Control Lambda Functions Happiness is not something ready made. It comes from your own actions. Edge Computing If you can dream it, you can do it. Message Queue Artificial Intelligence
+Data Science JWT Frontend Sharding JavaScript Algorithm Predictive Analytics Event-driven Architecture WebSockets GraphQL DevOps Deployment Message Queue Backend
