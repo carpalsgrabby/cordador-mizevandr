@@ -22,3 +22,4 @@ Firewalls Difficult roads often lead to beautiful destinations. RabbitMQ OAuth U
 RabbitMQ WebSockets Simplicity is the ultimate sophistication. Load Testing Event-driven Architecture Pull Request Don't be afraid to give up the good to go for the great. Data Science Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations.
 GraphQL Difficult roads often lead to beautiful destinations. Big Data Predictive Analytics OAuth NLP Don't be afraid to give up the good to go for the great. Replica Set Containerization API Gateway CI/CD Python
 Zero Downtime Deployment Firewalls Data Pipeline Don't be afraid to give up the good to go for the great. Optimization Automation Docker
+Event-driven Architecture To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Blockchain Deployment Database
