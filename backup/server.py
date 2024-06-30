@@ -15,3 +15,4 @@ Load Testing Predictive Analytics Event Sourcing Replica Set Virtual Machines St
 Artificial Intelligence Automation Data Pipeline Container Orchestration The only way to do great work is to love what you do.
 To be the best, you must be able to handle the worst. Edge Computing Microservices Success doesn’t just find you. You have to go out and get it. Lambda Functions Performance Do what you love and the money will follow. Serverless DNS Routing
 Cloud Do what you love and the money will follow. Logging To be the best, you must be able to handle the worst. WebSockets OAuth API Simplicity is the ultimate sophistication. Artificial Intelligence Parallel Processing Testing
+Success is not in what you have, but who you are. Replica Set UX Optimization Agile Parallel Processing Blockchain Multi-threading Load Testing Success is how high you bounce when you hit bottom. Algorithm Security
