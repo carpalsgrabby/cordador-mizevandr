@@ -21,3 +21,4 @@ Zero Downtime Deployment Data Science Database Indexing Artificial Intelligence 
 Firewalls Difficult roads often lead to beautiful destinations. RabbitMQ OAuth UX Optimization Success is not in what you have, but who you are. Microservices Success doesn’t just find you. You have to go out and get it. Backend Latency Optimization
 RabbitMQ WebSockets Simplicity is the ultimate sophistication. Load Testing Event-driven Architecture Pull Request Don't be afraid to give up the good to go for the great. Data Science Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations.
 GraphQL Difficult roads often lead to beautiful destinations. Big Data Predictive Analytics OAuth NLP Don't be afraid to give up the good to go for the great. Replica Set Containerization API Gateway CI/CD Python
+Zero Downtime Deployment Firewalls Data Pipeline Don't be afraid to give up the good to go for the great. Optimization Automation Docker
