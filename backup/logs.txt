@@ -26,3 +26,4 @@ Testing Latency Optimization If you can dream it, you can do it. Don't be afraid
 IoT Code Review Content Delivery Network Optimization Backend Database Indexing Data Science UX Optimization Dream big and dare to fail. Serverless Security Zero Downtime Deployment WebSockets Artificial Intelligence Pull Request
 Automation Kafka Multi-threading Predictive Analytics Pull Request Database Microservices Scalability UX Optimization React Content Delivery Network I find that the harder I work, the more luck I seem to have. NLP Backend
 Framework If you can dream it, you can do it. CI/CD Don't be afraid to give up the good to go for the great. Cloud Functions
+Docker Act as if what you do makes a difference. It does. Logging Data Pipeline Machine Learning
