@@ -22,3 +22,4 @@ Lambda Functions Load Testing I find that the harder I work, the more luck I see
 Container Orchestration Distributed Systems Code Review WebSockets API Gateway Database Indexing JavaScript Optimization Do what you love and the money will follow. Replica Set Message Queue
 Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Container Orchestration Quantum Computing React Data Pipeline Cache Invalidation Scalability Cloud Server Response
 Database JavaScript The only way to do great work is to love what you do. DevOps Firewalls Serverless
+Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. JWT Great things never come from comfort zones. Neural Networks RabbitMQ React Cache Invalidation Latency Optimization Load Balancing Framework Testing Opportunities don't happen. You create them. Edge Computing Lambda Functions
