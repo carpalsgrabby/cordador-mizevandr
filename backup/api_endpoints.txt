@@ -21,3 +21,4 @@ Load Testing Work hard in silence, let your success be your noise. Database Inde
 If you can dream it, you can do it. Logging Performance Event-driven Architecture Load Testing React Multi-threading Agile
 Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Microservices Automation Message Queue Kafka Do what you love and the money will follow. Load Testing
 Agile Code Review Version Control Success usually comes to those who are too busy to be looking for it. Quantum Computing Sharding Logging Innovation distinguishes between a leader and a follower. A/B Testing JavaScript Lambda Functions Predictive Analytics Parallel Processing UX Optimization
+CI/CD Pull Request Docker Code Review Neural Networks Container Orchestration
