@@ -23,3 +23,4 @@ Server Response Microservices Database Edge Computing Scalability Great things n
 Frontend Success is how high you bounce when you hit bottom. GraphQL JWT Security DNS Routing Machine Learning
 Success is not in what you have, but who you are. Performance Stay hungry, stay foolish. Predictive Analytics Containerization Multi-threading Happiness is not something ready made. It comes from your own actions.
 Multi-threading JavaScript Cloud Testing Work hard in silence, let your success be your noise. JWT Happiness is not something ready made. It comes from your own actions. Backend Virtual Machines Load Testing
+Predictive Analytics Testing DNS Routing Version Control Do what you love and the money will follow.
