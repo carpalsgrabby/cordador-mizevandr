@@ -24,3 +24,4 @@ Distributed Systems Big Data If you can dream it, you can do it. Cache Invalidat
 Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. JWT Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. JavaScript Microservices
 Success is not in what you have, but who you are. Testing Data Pipeline Neural Networks Performance Algorithm IoT Work hard in silence, let your success be your noise. Load Testing
 Machine Learning WebSockets The only way to do great work is to love what you do. Message Queue JavaScript Difficult roads often lead to beautiful destinations. UX Optimization
+Happiness is not something ready made. It comes from your own actions. Cloud NLP Docker Event Sourcing Database Indexing Kafka OAuth Logging Parallel Processing
