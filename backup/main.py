@@ -11,3 +11,4 @@ Distributed Systems Optimization Success is not in what you have, but who you ar
 Microservices Version Control Logging Message Queue Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Kafka
 Database Indexing Pull Request NLP Don't be afraid to give up the good to go for the great. Testing API Cloud Machine Learning
 Machine Learning JavaScript GraphQL Backend Logging Artificial Intelligence IoT Deployment Pull Request Docker Firewalls Distributed Systems NLP Virtual Machines Optimization
+Microservices Work hard in silence, let your success be your noise. Framework Simplicity is the ultimate sophistication. Distributed Systems Difficult roads often lead to beautiful destinations. GraphQL Content Delivery Network Blockchain Cloud
