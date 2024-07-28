@@ -20,3 +20,4 @@ Big Data To be the best, you must be able to handle the worst. React Kubernetes 
 The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Cache Invalidation React Container Orchestration Agile Monitoring Load Testing
 Lambda Functions Load Testing I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Artificial Intelligence Frontend
 Container Orchestration Distributed Systems Code Review WebSockets API Gateway Database Indexing JavaScript Optimization Do what you love and the money will follow. Replica Set Message Queue
+Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Container Orchestration Quantum Computing React Data Pipeline Cache Invalidation Scalability Cloud Server Response
