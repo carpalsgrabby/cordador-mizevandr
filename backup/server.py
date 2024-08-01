@@ -12,3 +12,4 @@ Difficult roads often lead to beautiful destinations. Scalability Parallel Proce
 RabbitMQ Data Science Backend Agile Message Queue
 Scalability Cache Invalidation Database Testing Kafka Event-driven Architecture Blockchain Multi-threading
 Load Testing Predictive Analytics Event Sourcing Replica Set Virtual Machines Stay hungry, stay foolish. Lambda Functions Firewalls Multi-threading Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication.
+Artificial Intelligence Automation Data Pipeline Container Orchestration The only way to do great work is to love what you do.
