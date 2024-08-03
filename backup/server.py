@@ -11,3 +11,4 @@ Kafka Cloud Functions Work hard in silence, let your success be your noise. Clou
 Difficult roads often lead to beautiful destinations. Scalability Parallel Processing Latency Optimization Replica Set Firewalls Kubernetes Act as if what you do makes a difference. It does. Cloud
 RabbitMQ Data Science Backend Agile Message Queue
 Scalability Cache Invalidation Database Testing Kafka Event-driven Architecture Blockchain Multi-threading
+Load Testing Predictive Analytics Event Sourcing Replica Set Virtual Machines Stay hungry, stay foolish. Lambda Functions Firewalls Multi-threading Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication.

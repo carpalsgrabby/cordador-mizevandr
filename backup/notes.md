@@ -21,3 +21,4 @@ Act as if what you do makes a difference. It does. Framework Success usually com
 DNS Routing API Gateway JWT Containerization Testing Difficult roads often lead to beautiful destinations. OAuth Backend Stay hungry, stay foolish. Content Delivery Network Database Data Science Multi-threading
 Server Response Microservices Database Edge Computing Scalability Great things never come from comfort zones. Replica Set JavaScript Happiness is not something ready made. It comes from your own actions.
 Frontend Success is how high you bounce when you hit bottom. GraphQL JWT Security DNS Routing Machine Learning
+Success is not in what you have, but who you are. Performance Stay hungry, stay foolish. Predictive Analytics Containerization Multi-threading Happiness is not something ready made. It comes from your own actions.
