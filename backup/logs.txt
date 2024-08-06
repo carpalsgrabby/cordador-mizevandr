@@ -21,3 +21,4 @@ Success doesn’t just find you. You have to go out and get it. Work hard in silen
 Edge Computing Predictive Analytics Containerization Virtual Machines Act as if what you do makes a difference. It does. Container Orchestration OAuth Scalability Replica Set Great things never come from comfort zones. Monitoring
 Database Neural Networks Frontend Logging Load Testing
 Message Queue I find that the harder I work, the more luck I seem to have. UX Optimization Kubernetes React Replica Set Content Delivery Network DevOps Innovation distinguishes between a leader and a follower. Machine Learning Data Pipeline Kafka
+Great things never come from comfort zones. Kubernetes Load Balancing Difficult roads often lead to beautiful destinations. Zero Downtime Deployment WebSockets IoT
