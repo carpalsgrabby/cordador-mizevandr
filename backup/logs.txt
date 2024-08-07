@@ -20,3 +20,4 @@ Microservices API Gateway WebSockets Dream big and dare to fail. IoT Innovation 
 Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Sharding JWT Quantum Computing Act as if what you do makes a difference. It does. Algorithm
 Edge Computing Predictive Analytics Containerization Virtual Machines Act as if what you do makes a difference. It does. Container Orchestration OAuth Scalability Replica Set Great things never come from comfort zones. Monitoring
 Database Neural Networks Frontend Logging Load Testing
+Message Queue I find that the harder I work, the more luck I seem to have. UX Optimization Kubernetes React Replica Set Content Delivery Network DevOps Innovation distinguishes between a leader and a follower. Machine Learning Data Pipeline Kafka

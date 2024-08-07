@@ -21,3 +21,4 @@ Success is not in what you have, but who you are. Multi-threading Frontend Kuber
 RabbitMQ Server Response Code Review Cache Invalidation Data Pipeline If you can dream it, you can do it. Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Dream big and dare to fail. Python
 Event Sourcing Security Containerization Do what you love and the money will follow. DNS Routing Scalability Happiness is not something ready made. It comes from your own actions. Lambda Functions API Data Pipeline
 Stay hungry, stay foolish. Dream big and dare to fail. WebSockets Happiness is not something ready made. It comes from your own actions. GraphQL Difficult roads often lead to beautiful destinations. Neural Networks CI/CD Python A/B Testing Microservices
+Code Review Great things never come from comfort zones. Predictive Analytics Deployment Neural Networks Database Indexing Cache Invalidation Automation Serverless Machine Learning
