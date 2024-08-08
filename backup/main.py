@@ -9,3 +9,4 @@ Container Orchestration IoT Automation Machine Learning Pull Request GraphQL Kub
 Multi-threading Agile OAuth Predictive Analytics Version Control
 Distributed Systems Optimization Success is not in what you have, but who you are. Testing Backend Deployment Serverless Opportunities don't happen. You create them. Performance
 Microservices Version Control Logging Message Queue Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Kafka
+Database Indexing Pull Request NLP Don't be afraid to give up the good to go for the great. Testing API Cloud Machine Learning
