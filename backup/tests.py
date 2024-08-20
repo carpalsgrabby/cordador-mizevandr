@@ -23,3 +23,4 @@ Cloud Functions Sharding Act as if what you do makes a difference. It does. A/B 
 Virtual Machines Innovation distinguishes between a leader and a follower. Containerization Opportunities don't happen. You create them. The only way to do great work is to love what you do.
 Act as if what you do makes a difference. It does. Deployment Frontend WebSockets Great things never come from comfort zones. RabbitMQ Simplicity is the ultimate sophistication. Cache Invalidation Difficult roads often lead to beautiful destinations. Parallel Processing Automation Work hard in silence, let your success be your noise.
 Cloud Artificial Intelligence Agile Docker GraphQL
+Event Sourcing Work hard in silence, let your success be your noise. Neural Networks Innovation distinguishes between a leader and a follower. Docker Logging
