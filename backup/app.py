@@ -10,3 +10,4 @@ A/B Testing Kafka Success is how high you bounce when you hit bottom. Opportunit
 Monitoring Serverless I find that the harder I work, the more luck I seem to have. Event Sourcing Dream big and dare to fail.
 Testing RabbitMQ Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Cloud Kafka Microservices IoT Database Data Pipeline Optimization Code Review Machine Learning Logging
 Serverless Optimization Deployment Cache Invalidation Kubernetes Database Indexing
+Success is not in what you have, but who you are. API Optimization Cloud Functions Database Indexing Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. A/B Testing Load Balancing Docker Distributed Systems Success usually comes to those who are too busy to be looking for it. Event Sourcing Great things never come from comfort zones. Zero Downtime Deployment
