@@ -15,3 +15,4 @@ Work hard in silence, let your success be your noise. Quantum Computing Difficul
 Success usually comes to those who are too busy to be looking for it. Microservices NLP Do what you love and the money will follow. Testing Success doesn’t just find you. You have to go out and get it. Distributed Systems DNS Routing
 I find that the harder I work, the more luck I seem to have. Machine Learning Framework Optimization Docker Server Response Stay hungry, stay foolish.
 Code Review Happiness is not something ready made. It comes from your own actions. Monitoring A/B Testing Lambda Functions Opportunities don't happen. You create them. GraphQL Container Orchestration Kafka Logging Predictive Analytics Frontend Testing Don't be afraid to give up the good to go for the great.
+Cloud Functions Success is not in what you have, but who you are. Kafka Latency Optimization Pull Request Lambda Functions Stay hungry, stay foolish. Containerization GraphQL
