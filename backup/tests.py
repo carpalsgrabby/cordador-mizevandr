@@ -22,3 +22,4 @@ Deployment Success is not in what you have, but who you are. React Load Testing 
 Cloud Functions Sharding Act as if what you do makes a difference. It does. A/B Testing Cloud Security Container Orchestration If you can dream it, you can do it. Firewalls Deployment Virtual Machines Zero Downtime Deployment Automation Difficult roads often lead to beautiful destinations. Quantum Computing
 Virtual Machines Innovation distinguishes between a leader and a follower. Containerization Opportunities don't happen. You create them. The only way to do great work is to love what you do.
 Act as if what you do makes a difference. It does. Deployment Frontend WebSockets Great things never come from comfort zones. RabbitMQ Simplicity is the ultimate sophistication. Cache Invalidation Difficult roads often lead to beautiful destinations. Parallel Processing Automation Work hard in silence, let your success be your noise.
+Cloud Artificial Intelligence Agile Docker GraphQL
