@@ -8,3 +8,4 @@ I find that the harder I work, the more luck I seem to have. Automation RabbitMQ
 Container Orchestration Big Data Optimization Backend Containerization Serverless Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. JavaScript Lambda Functions
 Version Control Container Orchestration Replica Set Cloud Functions Deployment Automation Cache Invalidation
 Container Orchestration Database Event Sourcing Containerization API Gateway Act as if what you do makes a difference. It does. Monitoring API Artificial Intelligence Optimization Algorithm UX Optimization Firewalls Happiness is not something ready made. It comes from your own actions.
+API Gateway Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Agile DNS Routing Latency Optimization Pull Request Artificial Intelligence Edge Computing JavaScript Database Indexing
