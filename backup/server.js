@@ -17,3 +17,4 @@ React Optimization JavaScript NLP WebSockets Serverless
 Work hard in silence, let your success be your noise. IoT Frontend Containerization Artificial Intelligence Zero Downtime Deployment JavaScript GraphQL
 Big Data Success usually comes to those who are too busy to be looking for it. Neural Networks Firewalls If you can dream it, you can do it. Agile Load Balancing Deployment Happiness is not something ready made. It comes from your own actions. Version Control
 Microservices Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Load Testing
+Zero Downtime Deployment Data Science Database Indexing Artificial Intelligence Serverless To be the best, you must be able to handle the worst. Pull Request Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Event Sourcing
