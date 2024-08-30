@@ -13,3 +13,4 @@ Great things never come from comfort zones. Success doesn’t just find you. You h
 Microservices RabbitMQ Innovation distinguishes between a leader and a follower. API Gateway Success doesn’t just find you. You have to go out and get it. Code Review JWT Lambda Functions If you can dream it, you can do it. Event-driven Architecture
 Load Balancing Event Sourcing Great things never come from comfort zones. Cloud Microservices Success is not in what you have, but who you are. RabbitMQ
 Cloud Do what you love and the money will follow. Load Testing Data Science Event Sourcing Quantum Computing Success usually comes to those who are too busy to be looking for it.
+Content Delivery Network Replica Set Machine Learning Success is not in what you have, but who you are. Container Orchestration Cloud Functions Opportunities don't happen. You create them. Framework Simplicity is the ultimate sophistication.
