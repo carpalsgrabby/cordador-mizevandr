@@ -13,3 +13,4 @@ Kubernetes Happiness is not something ready made. It comes from your own actions
 Success is how high you bounce when you hit bottom. Docker Testing Container Orchestration Database Indexing Pull Request Don't be afraid to give up the good to go for the great.
 Frontend API Distributed Systems JavaScript Server Response
 Load Balancing Stay hungry, stay foolish. Message Queue DevOps Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Automation Python API Dream big and dare to fail.
+Blockchain Act as if what you do makes a difference. It does. DNS Routing JWT Scalability Server Response Machine Learning Success is how high you bounce when you hit bottom. React Database Indexing Cloud Functions Distributed Systems Simplicity is the ultimate sophistication. Security
