@@ -8,3 +8,4 @@ Blockchain Python To be the best, you must be able to handle the worst. NLP Pred
 Blockchain Great things never come from comfort zones. Dream big and dare to fail. Database Pull Request Code Review React Difficult roads often lead to beautiful destinations. API Containerization
 A/B Testing Kafka Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Python Replica Set JWT OAuth Blockchain Performance Stay hungry, stay foolish. IoT
 Monitoring Serverless I find that the harder I work, the more luck I seem to have. Event Sourcing Dream big and dare to fail.
+Testing RabbitMQ Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Cloud Kafka Microservices IoT Database Data Pipeline Optimization Code Review Machine Learning Logging
