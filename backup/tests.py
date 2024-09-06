@@ -20,3 +20,4 @@ Python DevOps Kafka Firewalls Containerization Testing Optimization
 Do what you love and the money will follow. Pull Request A/B Testing Code Review Data Pipeline Monitoring I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it.
 Deployment Success is not in what you have, but who you are. React Load Testing Containerization Cloud Functions RabbitMQ Data Pipeline Container Orchestration
 Cloud Functions Sharding Act as if what you do makes a difference. It does. A/B Testing Cloud Security Container Orchestration If you can dream it, you can do it. Firewalls Deployment Virtual Machines Zero Downtime Deployment Automation Difficult roads often lead to beautiful destinations. Quantum Computing
+Virtual Machines Innovation distinguishes between a leader and a follower. Containerization Opportunities don't happen. You create them. The only way to do great work is to love what you do.
