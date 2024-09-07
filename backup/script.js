@@ -18,3 +18,4 @@ WebSockets Happiness is not something ready made. It comes from your own actions
 Monitoring Testing JavaScript NLP Frontend Content Delivery Network Cloud Functions JWT Don't be afraid to give up the good to go for the great. UX Optimization
 Big Data To be the best, you must be able to handle the worst. React Kubernetes Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Distributed Systems WebSockets Act as if what you do makes a difference. It does. RabbitMQ Latency Optimization
 The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Cache Invalidation React Container Orchestration Agile Monitoring Load Testing
+Lambda Functions Load Testing I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Artificial Intelligence Frontend
