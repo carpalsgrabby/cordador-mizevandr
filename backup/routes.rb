@@ -11,3 +11,4 @@ Containerization Innovation distinguishes between a leader and a follower. Frame
 WebSockets NLP Server Response Artificial Intelligence Kubernetes
 Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. If you can dream it, you can do it. API Cache Invalidation Virtual Machines Python Microservices Data Science JWT
 Microservices RabbitMQ Innovation distinguishes between a leader and a follower. API Gateway Success doesn’t just find you. You have to go out and get it. Code Review JWT Lambda Functions If you can dream it, you can do it. Event-driven Architecture
+Load Balancing Event Sourcing Great things never come from comfort zones. Cloud Microservices Success is not in what you have, but who you are. RabbitMQ
