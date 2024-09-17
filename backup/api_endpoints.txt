@@ -17,3 +17,4 @@ GraphQL Success is not in what you have, but who you are. Stay hungry, stay fool
 Kubernetes Cloud Frontend Data Science Cloud Functions Happiness is not something ready made. It comes from your own actions. Predictive Analytics
 Artificial Intelligence Backend IoT Cache Invalidation Sharding Act as if what you do makes a difference. It does. Kubernetes If you can dream it, you can do it. Load Balancing Firewalls Neural Networks Edge Computing Dream big and dare to fail.
 Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Content Delivery Network Dream big and dare to fail. Containerization Python Cache Invalidation Latency Optimization Replica Set Zero Downtime Deployment Lambda Functions Scalability The only way to do great work is to love what you do. Great things never come from comfort zones.
+Load Testing Work hard in silence, let your success be your noise. Database Indexing Microservices Message Queue

@@ -16,3 +16,4 @@ Backend Success usually comes to those who are too busy to be looking for it. Su
 Neural Networks Optimization Deployment Opportunities don't happen. You create them. Lambda Functions
 NLP Deployment JWT Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Logging Sharding GraphQL
 Code Review Virtual Machines Container Orchestration RabbitMQ Edge Computing React Dream big and dare to fail. API Gateway Frontend Microservices Big Data UX Optimization Latency Optimization
+Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Monitoring Distributed Systems Data Science Automation
