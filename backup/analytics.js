@@ -16,3 +16,4 @@ Neural Networks Kubernetes JWT RabbitMQ DNS Routing Server Response Happiness is
 Act as if what you do makes a difference. It does. Database Kafka Microservices Don't be afraid to give up the good to go for the great. Load Balancing Edge Computing
 Firewalls Virtual Machines Don't be afraid to give up the good to go for the great. Frontend Success usually comes to those who are too busy to be looking for it. Database Indexing Database
 Load Testing Deployment Machine Learning Load Balancing OAuth Multi-threading Backend Code Review Performance API Gateway To be the best, you must be able to handle the worst. Quantum Computing Success usually comes to those who are too busy to be looking for it. Logging
+If you can dream it, you can do it. Multi-threading Monitoring Firewalls Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. CI/CD Docker Cloud Kubernetes
