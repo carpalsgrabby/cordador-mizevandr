@@ -7,3 +7,4 @@ Deployment JWT Distributed Systems Work hard in silence, let your success be you
 Docker NLP Work hard in silence, let your success be your noise. Load Testing Great things never come from comfort zones. Performance If you can dream it, you can do it. Parallel Processing Database Indexing GraphQL Act as if what you do makes a difference. It does. Virtual Machines Big Data
 Latency Optimization WebSockets JWT Predictive Analytics Automation Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Big Data
 Server Response API Database Data Science Event-driven Architecture UX Optimization Version Control Work hard in silence, let your success be your noise. Blockchain
+Kafka Cloud Functions Work hard in silence, let your success be your noise. Cloud Docker

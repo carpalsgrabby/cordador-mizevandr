@@ -12,3 +12,4 @@ Performance A/B Testing Event Sourcing DevOps Load Balancing GraphQL Blockchain 
 Kubernetes Happiness is not something ready made. It comes from your own actions. Cloud Functions Success is how high you bounce when you hit bottom. Docker The only way to do great work is to love what you do. Automation UX Optimization Act as if what you do makes a difference. It does. CI/CD Optimization Monitoring
 Success is how high you bounce when you hit bottom. Docker Testing Container Orchestration Database Indexing Pull Request Don't be afraid to give up the good to go for the great.
 Frontend API Distributed Systems JavaScript Server Response
+Load Balancing Stay hungry, stay foolish. Message Queue DevOps Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Automation Python API Dream big and dare to fail.
