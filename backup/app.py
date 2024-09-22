@@ -7,3 +7,4 @@ Opportunities don't happen. You create them. GraphQL Python Predictive Analytics
 Blockchain Python To be the best, you must be able to handle the worst. NLP Predictive Analytics Stay hungry, stay foolish. Data Science RabbitMQ Quantum Computing GraphQL Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. DevOps Act as if what you do makes a difference. It does.
 Blockchain Great things never come from comfort zones. Dream big and dare to fail. Database Pull Request Code Review React Difficult roads often lead to beautiful destinations. API Containerization
 A/B Testing Kafka Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Python Replica Set JWT OAuth Blockchain Performance Stay hungry, stay foolish. IoT
+Monitoring Serverless I find that the harder I work, the more luck I seem to have. Event Sourcing Dream big and dare to fail.
