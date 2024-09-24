@@ -18,3 +18,4 @@ CI/CD Latency Optimization A/B Testing Sharding Edge Computing If you can dream 
 Cloud OAuth Deployment API Gateway IoT Kafka GraphQL React
 Success is not in what you have, but who you are. Python Monitoring Logging Virtual Machines Artificial Intelligence Firewalls Lambda Functions Kubernetes CI/CD Load Balancing Sharding UX Optimization Distributed Systems
 Act as if what you do makes a difference. It does. Framework Success usually comes to those who are too busy to be looking for it. Testing Zero Downtime Deployment Algorithm Kubernetes Difficult roads often lead to beautiful destinations. Sharding
+DNS Routing API Gateway JWT Containerization Testing Difficult roads often lead to beautiful destinations. OAuth Backend Stay hungry, stay foolish. Content Delivery Network Database Data Science Multi-threading
