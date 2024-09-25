@@ -10,3 +10,4 @@ Database Indexing Stay hungry, stay foolish. If you can dream it, you can do it.
 Containerization Innovation distinguishes between a leader and a follower. Framework CI/CD API To be the best, you must be able to handle the worst. Firewalls Artificial Intelligence Database Replica Set
 WebSockets NLP Server Response Artificial Intelligence Kubernetes
 Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. If you can dream it, you can do it. API Cache Invalidation Virtual Machines Python Microservices Data Science JWT
+Microservices RabbitMQ Innovation distinguishes between a leader and a follower. API Gateway Success doesn’t just find you. You have to go out and get it. Code Review JWT Lambda Functions If you can dream it, you can do it. Event-driven Architecture

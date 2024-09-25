@@ -14,3 +14,4 @@ Big Data Serverless UX Optimization Performance Replica Set
 Framework CI/CD Innovation distinguishes between a leader and a follower. Latency Optimization Containerization Server Response Machine Learning
 Algorithm Innovation distinguishes between a leader and a follower. Data Pipeline DNS Routing Data Science
 Containerization Deployment Do what you love and the money will follow. OAuth If you can dream it, you can do it. DevOps The only way to do great work is to love what you do. Serverless Database Indexing
+Server Response Performance A/B Testing OAuth Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Database Indexing Logging JWT Load Balancing Automation Monitoring Work hard in silence, let your success be your noise. Do what you love and the money will follow. Content Delivery Network
