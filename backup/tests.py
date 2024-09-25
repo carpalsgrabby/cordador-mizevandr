@@ -18,3 +18,4 @@ Kafka A/B Testing Simplicity is the ultimate sophistication. UX Optimization Gra
 Work hard in silence, let your success be your noise. Security Artificial Intelligence Zero Downtime Deployment Success is not in what you have, but who you are.
 Python DevOps Kafka Firewalls Containerization Testing Optimization
 Do what you love and the money will follow. Pull Request A/B Testing Code Review Data Pipeline Monitoring I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it.
+Deployment Success is not in what you have, but who you are. React Load Testing Containerization Cloud Functions RabbitMQ Data Pipeline Container Orchestration
