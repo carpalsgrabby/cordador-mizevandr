@@ -15,3 +15,4 @@ Microservices Opportunities don't happen. You create them. Version Control Distr
 API Gateway Security Parallel Processing Work hard in silence, let your success be your noise. UX Optimization JavaScript Multi-threading I find that the harder I work, the more luck I seem to have. DevOps Kubernetes NLP
 Innovation distinguishes between a leader and a follower. Code Review Big Data Cloud CI/CD Don't be afraid to give up the good to go for the great. Artificial Intelligence
 WebSockets Happiness is not something ready made. It comes from your own actions. Message Queue Dream big and dare to fail. Replica Set Event-driven Architecture Security Big Data Monitoring Machine Learning DevOps RabbitMQ
+Monitoring Testing JavaScript NLP Frontend Content Delivery Network Cloud Functions JWT Don't be afraid to give up the good to go for the great. UX Optimization
