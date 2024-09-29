@@ -16,3 +16,4 @@ Latency Optimization Load Balancing A/B Testing Database Cache Invalidation Grap
 Load Testing Serverless Multi-threading Deployment Artificial Intelligence CI/CD Sharding Neural Networks
 Innovation distinguishes between a leader and a follower. Multi-threading JavaScript Predictive Analytics JWT Artificial Intelligence To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Parallel Processing
 Load Testing API JavaScript Event Sourcing Server Response Neural Networks Content Delivery Network Logging Work hard in silence, let your success be your noise.
+Big Data Load Balancing Database Indexing Algorithm Lambda Functions Containerization Multi-threading DNS Routing Framework API Gateway
