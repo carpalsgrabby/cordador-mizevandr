@@ -12,3 +12,4 @@ Event Sourcing Backend Don't be afraid to give up the good to go for the great. 
 Kafka Cloud Functions Multi-threading Cache Invalidation Great things never come from comfort zones. Testing OAuth Framework Security If you can dream it, you can do it. Big Data RabbitMQ Zero Downtime Deployment Data Pipeline
 Big Data Serverless UX Optimization Performance Replica Set
 Framework CI/CD Innovation distinguishes between a leader and a follower. Latency Optimization Containerization Server Response Machine Learning
+Algorithm Innovation distinguishes between a leader and a follower. Data Pipeline DNS Routing Data Science
