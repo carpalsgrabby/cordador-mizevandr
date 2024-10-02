@@ -15,3 +15,4 @@ Stay hungry, stay foolish. Artificial Intelligence Load Balancing Edge Computing
 Stay hungry, stay foolish. API Load Testing GraphQL JavaScript Success doesn’t just find you. You have to go out and get it. JWT Dream big and dare to fail. Data Science
 Kafka Pull Request Zero Downtime Deployment Scalability Work hard in silence, let your success be your noise.
 Kafka A/B Testing Simplicity is the ultimate sophistication. UX Optimization GraphQL Security To be the best, you must be able to handle the worst.
+Work hard in silence, let your success be your noise. Security Artificial Intelligence Zero Downtime Deployment Success is not in what you have, but who you are.

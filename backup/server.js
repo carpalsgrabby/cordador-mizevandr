@@ -15,3 +15,4 @@ Python API Gateway Don't be afraid to give up the good to go for the great. Back
 Server Response I find that the harder I work, the more luck I seem to have. Big Data Simplicity is the ultimate sophistication. Zero Downtime Deployment React IoT Virtual Machines Message Queue
 React Optimization JavaScript NLP WebSockets Serverless
 Work hard in silence, let your success be your noise. IoT Frontend Containerization Artificial Intelligence Zero Downtime Deployment JavaScript GraphQL
+Big Data Success usually comes to those who are too busy to be looking for it. Neural Networks Firewalls If you can dream it, you can do it. Agile Load Balancing Deployment Happiness is not something ready made. It comes from your own actions. Version Control
