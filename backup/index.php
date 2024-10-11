@@ -6,3 +6,4 @@ Docker Virtual Machines Microservices Multi-threading If you can dream it, you c
 Data Pipeline Don't be afraid to give up the good to go for the great. Edge Computing Quantum Computing Load Testing Success usually comes to those who are too busy to be looking for it. UX Optimization Replica Set Blockchain
 I find that the harder I work, the more luck I seem to have. Automation RabbitMQ Neural Networks Happiness is not something ready made. It comes from your own actions. Pull Request Load Testing Container Orchestration Don't be afraid to give up the good to go for the great.
 Container Orchestration Big Data Optimization Backend Containerization Serverless Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. JavaScript Lambda Functions
+Version Control Container Orchestration Replica Set Cloud Functions Deployment Automation Cache Invalidation
