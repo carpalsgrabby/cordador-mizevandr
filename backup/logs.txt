@@ -12,3 +12,4 @@ DevOps I find that the harder I work, the more luck I seem to have. IoT Deployme
 Stay hungry, stay foolish. Scalability Monitoring Sharding IoT Agile Success is not in what you have, but who you are. Container Orchestration Content Delivery Network
 Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Latency Optimization NLP Act as if what you do makes a difference. It does. OAuth Database Indexing API Content Delivery Network Neural Networks Event-driven Architecture
 If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Automation Backend Predictive Analytics OAuth Server Response Replica Set The only way to do great work is to love what you do. Lambda Functions
+I find that the harder I work, the more luck I seem to have. OAuth Kafka Scalability Event-driven Architecture Difficult roads often lead to beautiful destinations. Firewalls

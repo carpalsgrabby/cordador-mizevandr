@@ -14,3 +14,4 @@ Cloud Functions Data Pipeline NLP Big Data Scalability Success is how high you b
 Message Queue Cloud Functions Testing Cloud Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Automation Difficult roads often lead to beautiful destinations. JWT
 Neural Networks Kubernetes JWT RabbitMQ DNS Routing Server Response Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. DevOps
 Act as if what you do makes a difference. It does. Database Kafka Microservices Don't be afraid to give up the good to go for the great. Load Balancing Edge Computing
+Firewalls Virtual Machines Don't be afraid to give up the good to go for the great. Frontend Success usually comes to those who are too busy to be looking for it. Database Indexing Database
