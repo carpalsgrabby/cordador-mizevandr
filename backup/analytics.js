@@ -15,3 +15,4 @@ Message Queue Cloud Functions Testing Cloud Act as if what you do makes a differ
 Neural Networks Kubernetes JWT RabbitMQ DNS Routing Server Response Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. DevOps
 Act as if what you do makes a difference. It does. Database Kafka Microservices Don't be afraid to give up the good to go for the great. Load Balancing Edge Computing
 Firewalls Virtual Machines Don't be afraid to give up the good to go for the great. Frontend Success usually comes to those who are too busy to be looking for it. Database Indexing Database
+Load Testing Deployment Machine Learning Load Balancing OAuth Multi-threading Backend Code Review Performance API Gateway To be the best, you must be able to handle the worst. Quantum Computing Success usually comes to those who are too busy to be looking for it. Logging
