@@ -16,3 +16,4 @@ Difficult roads often lead to beautiful destinations. Multi-threading To be the 
 Edge Computing Security Don't be afraid to give up the good to go for the great. Big Data Cloud DNS Routing Frontend Monitoring
 Testing Server Response DNS Routing Logging Blockchain Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Python Stay hungry, stay foolish. Message Queue WebSockets NLP
 NLP Performance Sharding Code Review OAuth Monitoring Great things never come from comfort zones. Cache Invalidation Lambda Functions Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Blockchain
+Testing Monitoring Frontend Neural Networks Edge Computing Automation Container Orchestration JavaScript Virtual Machines Stay hungry, stay foolish. Latency Optimization Great things never come from comfort zones. Load Balancing Algorithm DNS Routing
