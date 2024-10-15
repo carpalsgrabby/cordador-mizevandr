@@ -16,3 +16,4 @@ Work hard in silence, let your success be your noise. Do what you love and the m
 JWT Data Pipeline Frontend Cloud Functions React NLP Kubernetes Pull Request Message Queue Firewalls A/B Testing Framework Stay hungry, stay foolish.
 CI/CD Latency Optimization A/B Testing Sharding Edge Computing If you can dream it, you can do it. Opportunities don't happen. You create them. Zero Downtime Deployment Database Indexing
 Cloud OAuth Deployment API Gateway IoT Kafka GraphQL React
+Success is not in what you have, but who you are. Python Monitoring Logging Virtual Machines Artificial Intelligence Firewalls Lambda Functions Kubernetes CI/CD Load Balancing Sharding UX Optimization Distributed Systems
