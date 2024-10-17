@@ -14,3 +14,4 @@ Server Response Frontend NLP Agile Automation Deployment Virtual Machines Diffic
 Stay hungry, stay foolish. Artificial Intelligence Load Balancing Edge Computing Event-driven Architecture Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Opportunities don't happen. You create them.
 Stay hungry, stay foolish. API Load Testing GraphQL JavaScript Success doesn’t just find you. You have to go out and get it. JWT Dream big and dare to fail. Data Science
 Kafka Pull Request Zero Downtime Deployment Scalability Work hard in silence, let your success be your noise.
+Kafka A/B Testing Simplicity is the ultimate sophistication. UX Optimization GraphQL Security To be the best, you must be able to handle the worst.
