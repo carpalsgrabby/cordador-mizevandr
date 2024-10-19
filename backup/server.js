@@ -14,3 +14,4 @@ Kubernetes Work hard in silence, let your success be your noise. Quantum Computi
 Python API Gateway Don't be afraid to give up the good to go for the great. Backend Parallel Processing Blockchain Algorithm Multi-threading Big Data Data Pipeline Great things never come from comfort zones. Monitoring Do what you love and the money will follow. OAuth
 Server Response I find that the harder I work, the more luck I seem to have. Big Data Simplicity is the ultimate sophistication. Zero Downtime Deployment React IoT Virtual Machines Message Queue
 React Optimization JavaScript NLP WebSockets Serverless
+Work hard in silence, let your success be your noise. IoT Frontend Containerization Artificial Intelligence Zero Downtime Deployment JavaScript GraphQL
