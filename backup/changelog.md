@@ -12,3 +12,4 @@ Multi-threading Container Orchestration Neural Networks Great things never come 
 Don't be afraid to give up the good to go for the great. Deployment Sharding Replica Set NLP IoT Act as if what you do makes a difference. It does.
 Replica Set JWT Data Pipeline Cache Invalidation Data Science
 Neural Networks Scalability Predictive Analytics Server Response Logging The only way to do great work is to love what you do. Event Sourcing
+Latency Optimization Load Balancing A/B Testing Database Cache Invalidation GraphQL To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Database Indexing Algorithm Python Edge Computing Cloud Functions
