@@ -11,3 +11,4 @@ Success is how high you bounce when you hit bottom. Parallel Processing Testing 
 Multi-threading Container Orchestration Neural Networks Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. DevOps
 Don't be afraid to give up the good to go for the great. Deployment Sharding Replica Set NLP IoT Act as if what you do makes a difference. It does.
 Replica Set JWT Data Pipeline Cache Invalidation Data Science
+Neural Networks Scalability Predictive Analytics Server Response Logging The only way to do great work is to love what you do. Event Sourcing
