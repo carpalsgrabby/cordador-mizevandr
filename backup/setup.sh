@@ -12,3 +12,4 @@ GraphQL Neural Networks RabbitMQ Success doesn’t just find you. You have to go o
 Monitoring Sharding Load Balancing Quantum Computing Microservices I find that the harder I work, the more luck I seem to have. Database A/B Testing Kubernetes Optimization Data Science Frontend Zero Downtime Deployment DNS Routing
 Edge Computing Server Response GraphQL Kafka Big Data Microservices Performance Load Testing Database Indexing
 Work hard in silence, let your success be your noise. Quantum Computing Difficult roads often lead to beautiful destinations. Data Science Algorithm Database API Backend
+Success usually comes to those who are too busy to be looking for it. Microservices NLP Do what you love and the money will follow. Testing Success doesn’t just find you. You have to go out and get it. Distributed Systems DNS Routing
