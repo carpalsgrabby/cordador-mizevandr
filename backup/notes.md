@@ -15,3 +15,4 @@ Stay hungry, stay foolish. Code Review Neural Networks If you can dream it, you 
 Work hard in silence, let your success be your noise. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Testing Sharding Predictive Analytics Deployment
 JWT Data Pipeline Frontend Cloud Functions React NLP Kubernetes Pull Request Message Queue Firewalls A/B Testing Framework Stay hungry, stay foolish.
 CI/CD Latency Optimization A/B Testing Sharding Edge Computing If you can dream it, you can do it. Opportunities don't happen. You create them. Zero Downtime Deployment Database Indexing
+Cloud OAuth Deployment API Gateway IoT Kafka GraphQL React
