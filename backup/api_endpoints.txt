@@ -9,3 +9,4 @@ Big Data Distributed Systems Scalability Lambda Functions I find that the harder
 Multi-threading Virtual Machines UX Optimization Message Queue Microservices IoT Big Data Replica Set Serverless
 Success is not in what you have, but who you are. Machine Learning Blockchain API Gateway Version Control IoT Big Data If you can dream it, you can do it. Data Science Artificial Intelligence Algorithm Serverless Containerization Deployment Happiness is not something ready made. It comes from your own actions.
 Code Review API Gateway Database Parallel Processing GraphQL React Great things never come from comfort zones. Data Science
+Work hard in silence, let your success be your noise. Deployment JWT Success is not in what you have, but who you are. Load Balancing Latency Optimization Data Pipeline Opportunities don't happen. You create them. API NLP Big Data Python Backend Optimization
