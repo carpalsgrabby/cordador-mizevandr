@@ -10,3 +10,4 @@ Stay hungry, stay foolish. Monitoring Work hard in silence, let your success be 
 API Gateway Edge Computing Lambda Functions Cache Invalidation The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations.
 DevOps I find that the harder I work, the more luck I seem to have. IoT Deployment Cloud Functions Sharding JavaScript OAuth Latency Optimization Success is how high you bounce when you hit bottom. Data Science
 Stay hungry, stay foolish. Scalability Monitoring Sharding IoT Agile Success is not in what you have, but who you are. Container Orchestration Content Delivery Network
+Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Latency Optimization NLP Act as if what you do makes a difference. It does. OAuth Database Indexing API Content Delivery Network Neural Networks Event-driven Architecture
