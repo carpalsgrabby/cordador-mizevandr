@@ -12,3 +12,4 @@ Load Balancing Happiness is not something ready made. It comes from your own act
 Distributed Systems Server Response CI/CD Cloud Functions React WebSockets
 RabbitMQ Difficult roads often lead to beautiful destinations. Load Balancing JavaScript Dream big and dare to fail.
 Stay hungry, stay foolish. Code Review Neural Networks If you can dream it, you can do it. Event Sourcing Lambda Functions Python Zero Downtime Deployment Serverless Kubernetes Framework OAuth Firewalls Deployment Difficult roads often lead to beautiful destinations.
+Work hard in silence, let your success be your noise. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Testing Sharding Predictive Analytics Deployment
