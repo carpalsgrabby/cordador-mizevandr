@@ -10,3 +10,4 @@ Act as if what you do makes a difference. It does. Innovation distinguishes betw
 Performance Parallel Processing Machine Learning Opportunities don't happen. You create them. Version Control
 Kafka Success is not in what you have, but who you are. Neural Networks Event-driven Architecture Database Blockchain Cache Invalidation Happiness is not something ready made. It comes from your own actions. Firewalls Replica Set Success usually comes to those who are too busy to be looking for it. Message Queue GraphQL Server Response
 Backend Monitoring Distributed Systems DNS Routing Database API Gateway
+UX Optimization API Containerization Replica Set Quantum Computing NLP Do what you love and the money will follow. Edge Computing DevOps Opportunities don't happen. You create them. Scalability
