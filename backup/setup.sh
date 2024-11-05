@@ -10,3 +10,4 @@ Kubernetes Event-driven Architecture A/B Testing Cache Invalidation Frontend Fra
 Success is not in what you have, but who you are. Cloud Functions Sharding Security NLP
 GraphQL Neural Networks RabbitMQ Success doesn’t just find you. You have to go out and get it. Cache Invalidation Great things never come from comfort zones. Deployment Happiness is not something ready made. It comes from your own actions. Blockchain
 Monitoring Sharding Load Balancing Quantum Computing Microservices I find that the harder I work, the more luck I seem to have. Database A/B Testing Kubernetes Optimization Data Science Frontend Zero Downtime Deployment DNS Routing
+Edge Computing Server Response GraphQL Kafka Big Data Microservices Performance Load Testing Database Indexing

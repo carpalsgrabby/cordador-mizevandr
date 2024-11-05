@@ -7,3 +7,4 @@ Scalability Stay hungry, stay foolish. API Logging Optimization I find that the 
 React Data Pipeline Container Orchestration Database GraphQL
 Replica Set Load Balancing UX Optimization Containerization Logging Neural Networks Version Control Data Pipeline Success is not in what you have, but who you are. Database Indexing
 JWT Event Sourcing Success is how high you bounce when you hit bottom. Content Delivery Network Replica Set Pull Request Do what you love and the money will follow. Frontend Data Science Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Neural Networks GraphQL Docker
+Distributed Systems Multi-threading Event-driven Architecture Event Sourcing Neural Networks Big Data Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Containerization Artificial Intelligence

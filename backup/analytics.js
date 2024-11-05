@@ -10,3 +10,4 @@ JavaScript Difficult roads often lead to beautiful destinations. NLP Firewalls H
 RabbitMQ Logging Load Testing Pull Request Zero Downtime Deployment DevOps Simplicity is the ultimate sophistication. Containerization Microservices Framework
 OAuth JWT Innovation distinguishes between a leader and a follower. Data Science Data Pipeline Frontend React Logging
 Load Testing Firewalls Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. React Parallel Processing Success is how high you bounce when you hit bottom.
+Cloud Functions Data Pipeline NLP Big Data Scalability Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Load Balancing Virtual Machines Database Success doesn’t just find you. You have to go out and get it. Code Review
