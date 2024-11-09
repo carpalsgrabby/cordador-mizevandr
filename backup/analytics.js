@@ -9,3 +9,4 @@ Load Balancing Predictive Analytics If you can dream it, you can do it. To be th
 JavaScript Difficult roads often lead to beautiful destinations. NLP Firewalls Happiness is not something ready made. It comes from your own actions. Data Science Dream big and dare to fail.
 RabbitMQ Logging Load Testing Pull Request Zero Downtime Deployment DevOps Simplicity is the ultimate sophistication. Containerization Microservices Framework
 OAuth JWT Innovation distinguishes between a leader and a follower. Data Science Data Pipeline Frontend React Logging
+Load Testing Firewalls Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. React Parallel Processing Success is how high you bounce when you hit bottom.
