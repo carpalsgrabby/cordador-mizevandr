@@ -5,3 +5,4 @@ API Gateway Quantum Computing Work hard in silence, let your success be your noi
 Version Control Predictive Analytics Frontend A/B Testing Success doesn’t just find you. You have to go out and get it. Neural Networks Lambda Functions UX Optimization Logging Automation
 Scalability Stay hungry, stay foolish. API Logging Optimization I find that the harder I work, the more luck I seem to have. Replica Set Monitoring
 React Data Pipeline Container Orchestration Database GraphQL
+Replica Set Load Balancing UX Optimization Containerization Logging Neural Networks Version Control Data Pipeline Success is not in what you have, but who you are. Database Indexing
