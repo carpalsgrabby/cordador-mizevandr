@@ -11,3 +11,4 @@ Cloud Kafka Containerization Artificial Intelligence Algorithm Testing
 A/B Testing Server Response Automation Dream big and dare to fail. Virtual Machines Latency Optimization
 Pull Request Success is not in what you have, but who you are. Dream big and dare to fail. Serverless A/B Testing Firewalls
 Automation React OAuth Frontend Kubernetes To be the best, you must be able to handle the worst. Do what you love and the money will follow. Data Science JWT Work hard in silence, let your success be your noise. Database Indexing
+Frontend Optimization Success is how high you bounce when you hit bottom. Latency Optimization Virtual Machines Agile Load Testing Security Distributed Systems Server Response Code Review Monitoring DNS Routing
