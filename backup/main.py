@@ -7,3 +7,4 @@ Containerization GraphQL Do what you love and the money will follow. Success usu
 Zero Downtime Deployment Firewalls Testing Optimization Load Balancing Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail.
 Container Orchestration IoT Automation Machine Learning Pull Request GraphQL Kubernetes Predictive Analytics
 Multi-threading Agile OAuth Predictive Analytics Version Control
+Distributed Systems Optimization Success is not in what you have, but who you are. Testing Backend Deployment Serverless Opportunities don't happen. You create them. Performance
