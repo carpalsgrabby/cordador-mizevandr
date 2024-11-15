@@ -9,3 +9,4 @@ Dream big and dare to fail. Security Database Indexing API Gateway Edge Computin
 Kubernetes Event-driven Architecture A/B Testing Cache Invalidation Frontend Framework Version Control RabbitMQ Parallel Processing Optimization Server Response Difficult roads often lead to beautiful destinations. Neural Networks API Event Sourcing
 Success is not in what you have, but who you are. Cloud Functions Sharding Security NLP
 GraphQL Neural Networks RabbitMQ Success doesn’t just find you. You have to go out and get it. Cache Invalidation Great things never come from comfort zones. Deployment Happiness is not something ready made. It comes from your own actions. Blockchain
+Monitoring Sharding Load Balancing Quantum Computing Microservices I find that the harder I work, the more luck I seem to have. Database A/B Testing Kubernetes Optimization Data Science Frontend Zero Downtime Deployment DNS Routing
