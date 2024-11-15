@@ -8,3 +8,4 @@ Quantum Computing Cloud Functions Framework Deployment Difficult roads often lea
 Load Balancing Predictive Analytics If you can dream it, you can do it. To be the best, you must be able to handle the worst. CI/CD DevOps
 JavaScript Difficult roads often lead to beautiful destinations. NLP Firewalls Happiness is not something ready made. It comes from your own actions. Data Science Dream big and dare to fail.
 RabbitMQ Logging Load Testing Pull Request Zero Downtime Deployment DevOps Simplicity is the ultimate sophistication. Containerization Microservices Framework
+OAuth JWT Innovation distinguishes between a leader and a follower. Data Science Data Pipeline Frontend React Logging
