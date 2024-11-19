@@ -9,3 +9,4 @@ Optimization If you can dream it, you can do it. Microservices Opportunities don
 Event Sourcing NLP Artificial Intelligence Difficult roads often lead to beautiful destinations. Data Pipeline Replica Set Algorithm Quantum Computing Data Science Virtual Machines Load Testing Don't be afraid to give up the good to go for the great. API Pull Request
 Multi-threading Scalability Database Indexing CI/CD Act as if what you do makes a difference. It does.
 Framework DevOps Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Virtual Machines
+Artificial Intelligence Security Happiness is not something ready made. It comes from your own actions. Data Science Simplicity is the ultimate sophistication. Quantum Computing IoT GraphQL Framework UX Optimization Logging
