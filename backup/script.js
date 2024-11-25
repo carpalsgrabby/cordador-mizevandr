@@ -8,3 +8,4 @@ Load Balancing Quantum Computing To be the best, you must be able to handle the 
 Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Data Pipeline Python Code Review Database Indexing Machine Learning Security
 WebSockets Load Testing Big Data I find that the harder I work, the more luck I seem to have. Server Response Content Delivery Network Pull Request Event-driven Architecture Testing
 Cloud Server Response API Gateway The only way to do great work is to love what you do. Performance Automation React Blockchain Sharding UX Optimization Cloud Functions I find that the harder I work, the more luck I seem to have. Microservices Load Balancing Lambda Functions
+Distributed Systems Sharding Automation Algorithm Cloud Functions IoT Edge Computing Virtual Machines Framework Success is how high you bounce when you hit bottom. Containerization CI/CD Lambda Functions
