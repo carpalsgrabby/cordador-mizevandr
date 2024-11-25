@@ -9,3 +9,4 @@ Frontend Latency Optimization Machine Learning Simplicity is the ultimate sophis
 Frontend The only way to do great work is to love what you do. Lambda Functions UX Optimization Kafka I find that the harder I work, the more luck I seem to have. Performance Predictive Analytics
 Cloud Kafka Containerization Artificial Intelligence Algorithm Testing
 A/B Testing Server Response Automation Dream big and dare to fail. Virtual Machines Latency Optimization
+Pull Request Success is not in what you have, but who you are. Dream big and dare to fail. Serverless A/B Testing Firewalls
