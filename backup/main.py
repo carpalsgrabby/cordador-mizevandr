@@ -6,3 +6,4 @@ Lambda Functions Success usually comes to those who are too busy to be looking f
 Containerization GraphQL Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Deployment Zero Downtime Deployment Database Indexing React Microservices Machine Learning Latency Optimization WebSockets Firewalls
 Zero Downtime Deployment Firewalls Testing Optimization Load Balancing Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail.
 Container Orchestration IoT Automation Machine Learning Pull Request GraphQL Kubernetes Predictive Analytics
+Multi-threading Agile OAuth Predictive Analytics Version Control
