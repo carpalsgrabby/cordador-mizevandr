@@ -6,3 +6,4 @@ Agile Automation Machine Learning RabbitMQ Performance Do what you love and the 
 Algorithm Kafka Difficult roads often lead to beautiful destinations. Backend Deployment Event-driven Architecture Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise.
 Sharding Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Kafka Edge Computing Neural Networks Optimization Docker
 Containerization Great things never come from comfort zones. CI/CD Deployment Success is how high you bounce when you hit bottom. DNS Routing Opportunities don't happen. You create them. Load Balancing
+Automation Difficult roads often lead to beautiful destinations. Database Indexing Docker Cloud Functions
