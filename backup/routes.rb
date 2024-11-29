@@ -5,3 +5,4 @@ RabbitMQ Do what you love and the money will follow. If you can dream it, you ca
 Load Balancing Artificial Intelligence Edge Computing Replica Set IoT
 Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Do what you love and the money will follow. DevOps Algorithm Message Queue Replica Set Performance Simplicity is the ultimate sophistication. Monitoring Sharding DNS Routing
 Framework Machine Learning Act as if what you do makes a difference. It does. Neural Networks Work hard in silence, let your success be your noise. Docker Deployment
+Deployment Automation Simplicity is the ultimate sophistication. API Gateway The only way to do great work is to love what you do. Docker Performance Success usually comes to those who are too busy to be looking for it. Cloud Functions A/B Testing Python Stay hungry, stay foolish. Parallel Processing

@@ -10,3 +10,4 @@ Event Sourcing GraphQL If you can dream it, you can do it. OAuth Database Indexi
 Cache Invalidation JWT Docker GraphQL Virtual Machines Event Sourcing DNS Routing API Content Delivery Network Sharding Logging Load Balancing Zero Downtime Deployment Data Science
 RabbitMQ IoT To be the best, you must be able to handle the worst. Data Pipeline Content Delivery Network Don't be afraid to give up the good to go for the great. API Great things never come from comfort zones.
 Cloud WebSockets Predictive Analytics Logging Act as if what you do makes a difference. It does. Machine Learning OAuth Backend Virtual Machines Data Science Python RabbitMQ Scalability If you can dream it, you can do it.
+Server Response Frontend NLP Agile Automation Deployment Virtual Machines Difficult roads often lead to beautiful destinations. Artificial Intelligence Predictive Analytics Security Containerization
