@@ -8,3 +8,4 @@ NLP Artificial Intelligence Opportunities don't happen. You create them. Optimiz
 Frontend Latency Optimization Machine Learning Simplicity is the ultimate sophistication. API Event Sourcing Opportunities don't happen. You create them. Containerization Do what you love and the money will follow. Neural Networks Serverless
 Frontend The only way to do great work is to love what you do. Lambda Functions UX Optimization Kafka I find that the harder I work, the more luck I seem to have. Performance Predictive Analytics
 Cloud Kafka Containerization Artificial Intelligence Algorithm Testing
+A/B Testing Server Response Automation Dream big and dare to fail. Virtual Machines Latency Optimization
