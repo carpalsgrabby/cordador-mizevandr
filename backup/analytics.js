@@ -6,3 +6,4 @@ Dream big and dare to fail. Container Orchestration Framework Innovation disting
 Performance Pull Request Zero Downtime Deployment RabbitMQ NLP Scalability Frontend Security
 Quantum Computing Cloud Functions Framework Deployment Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. NLP CI/CD Server Response
 Load Balancing Predictive Analytics If you can dream it, you can do it. To be the best, you must be able to handle the worst. CI/CD DevOps
+JavaScript Difficult roads often lead to beautiful destinations. NLP Firewalls Happiness is not something ready made. It comes from your own actions. Data Science Dream big and dare to fail.
