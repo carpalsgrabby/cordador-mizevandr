@@ -7,3 +7,4 @@ Python Dream big and dare to fail. Sharding Great things never come from comfort
 NLP Artificial Intelligence Opportunities don't happen. You create them. Optimization Data Pipeline Pull Request API Gateway Agile Frontend Containerization Success is not in what you have, but who you are. Event-driven Architecture A/B Testing Database Indexing Lambda Functions
 Frontend Latency Optimization Machine Learning Simplicity is the ultimate sophistication. API Event Sourcing Opportunities don't happen. You create them. Containerization Do what you love and the money will follow. Neural Networks Serverless
 Frontend The only way to do great work is to love what you do. Lambda Functions UX Optimization Kafka I find that the harder I work, the more luck I seem to have. Performance Predictive Analytics
+Cloud Kafka Containerization Artificial Intelligence Algorithm Testing
