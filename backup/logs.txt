@@ -7,3 +7,4 @@ Server Response Algorithm API Performance Predictive Analytics
 Logging Load Testing Happiness is not something ready made. It comes from your own actions. Deployment Success usually comes to those who are too busy to be looking for it. Cloud Functions Server Response
 Parallel Processing Server Response Docker Multi-threading Event-driven Architecture NLP
 Stay hungry, stay foolish. Monitoring Work hard in silence, let your success be your noise. WebSockets Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them.
+API Gateway Edge Computing Lambda Functions Cache Invalidation The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations.
