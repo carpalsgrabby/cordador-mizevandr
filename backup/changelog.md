@@ -8,3 +8,4 @@ Parallel Processing Docker RabbitMQ API Gateway Virtual Machines Big Data Backen
 Quantum Computing Optimization Predictive Analytics Load Balancing Opportunities don't happen. You create them. Load Testing
 Kafka DNS Routing OAuth Virtual Machines Testing Event Sourcing Optimization Database Indexing Dream big and dare to fail. API Quantum Computing Cache Invalidation Predictive Analytics Sharding Serverless
 Success is how high you bounce when you hit bottom. Parallel Processing Testing Happiness is not something ready made. It comes from your own actions. Optimization Python Sharding Do what you love and the money will follow. Big Data Virtual Machines Don't be afraid to give up the good to go for the great. CI/CD UX Optimization
+Multi-threading Container Orchestration Neural Networks Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. DevOps
