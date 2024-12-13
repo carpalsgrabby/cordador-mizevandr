@@ -4,3 +4,4 @@ Happiness is not something ready made. It comes from your own actions. Parallel 
 API Gateway Quantum Computing Work hard in silence, let your success be your noise. Docker Artificial Intelligence
 Version Control Predictive Analytics Frontend A/B Testing Success doesn’t just find you. You have to go out and get it. Neural Networks Lambda Functions UX Optimization Logging Automation
 Scalability Stay hungry, stay foolish. API Logging Optimization I find that the harder I work, the more luck I seem to have. Replica Set Monitoring
+React Data Pipeline Container Orchestration Database GraphQL
