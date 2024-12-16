@@ -3,3 +3,4 @@ JWT Firewalls Automation Latency Optimization DevOps Big Data CI/CD Success does
 Algorithm Big Data Multi-threading Load Testing Zero Downtime Deployment Load Balancing Happiness is not something ready made. It comes from your own actions. Serverless Artificial Intelligence
 RabbitMQ Do what you love and the money will follow. If you can dream it, you can do it. CI/CD Deployment Dream big and dare to fail. Logging
 Load Balancing Artificial Intelligence Edge Computing Replica Set IoT
+Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Do what you love and the money will follow. DevOps Algorithm Message Queue Replica Set Performance Simplicity is the ultimate sophistication. Monitoring Sharding DNS Routing
