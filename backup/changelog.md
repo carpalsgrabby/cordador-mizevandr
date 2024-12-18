@@ -6,3 +6,4 @@ Zero Downtime Deployment GraphQL Message Queue Framework Python Cloud Functions 
 Opportunities don't happen. You create them. IoT WebSockets Database Microservices Predictive Analytics If you can dream it, you can do it. Blockchain Serverless
 Parallel Processing Docker RabbitMQ API Gateway Virtual Machines Big Data Backend Frontend Message Queue Opportunities don't happen. You create them. Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have.
 Quantum Computing Optimization Predictive Analytics Load Balancing Opportunities don't happen. You create them. Load Testing
+Kafka DNS Routing OAuth Virtual Machines Testing Event Sourcing Optimization Database Indexing Dream big and dare to fail. API Quantum Computing Cache Invalidation Predictive Analytics Sharding Serverless
