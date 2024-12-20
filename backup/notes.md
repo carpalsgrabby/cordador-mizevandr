@@ -2,3 +2,4 @@ IoT Agile React Performance Framework Database Indexing Virtual Machines Securit
 Deployment Load Testing Event-driven Architecture Cloud Functions Optimization Logging Quantum Computing Distributed Systems
 Microservices Artificial Intelligence Work hard in silence, let your success be your noise. Backend Neural Networks Do what you love and the money will follow. Data Pipeline
 Database Indexing Microservices React Happiness is not something ready made. It comes from your own actions. Serverless JWT NLP Blockchain Virtual Machines Firewalls Artificial Intelligence Docker Code Review
+Agile Automation Machine Learning RabbitMQ Performance Do what you love and the money will follow. Kafka Edge Computing Distributed Systems Event Sourcing Success doesn’t just find you. You have to go out and get it.
