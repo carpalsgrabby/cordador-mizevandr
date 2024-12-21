@@ -7,3 +7,4 @@ Great things never come from comfort zones. Edge Computing Algorithm Parallel Pr
 Zero Downtime Deployment Serverless Docker Cloud Functions Predictive Analytics GraphQL NLP Success is how high you bounce when you hit bottom. Firewalls Code Review
 Edge Computing Success doesn’t just find you. You have to go out and get it. Kubernetes Happiness is not something ready made. It comes from your own actions. API Framework Version Control
 Event Sourcing GraphQL If you can dream it, you can do it. OAuth Database Indexing Firewalls I find that the harder I work, the more luck I seem to have. Cloud Success usually comes to those who are too busy to be looking for it. Replica Set Database Event-driven Architecture Pull Request Algorithm
+Cache Invalidation JWT Docker GraphQL Virtual Machines Event Sourcing DNS Routing API Content Delivery Network Sharding Logging Load Balancing Zero Downtime Deployment Data Science
