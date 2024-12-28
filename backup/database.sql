@@ -6,3 +6,4 @@ Success is how high you bounce when you hit bottom. Microservices Great things n
 Parallel Processing Happiness is not something ready made. It comes from your own actions. Docker Testing JavaScript
 Artificial Intelligence Parallel Processing Docker GraphQL IoT Scalability A/B Testing Optimization Content Delivery Network Lambda Functions If you can dream it, you can do it. Machine Learning
 Parallel Processing Container Orchestration Do what you love and the money will follow. DNS Routing Optimization Cloud Functions
+Lambda Functions Load Balancing Kubernetes JWT Stay hungry, stay foolish. Big Data Load Testing Performance Backend Server Response If you can dream it, you can do it. Cloud
