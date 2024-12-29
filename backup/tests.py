@@ -5,3 +5,4 @@ Innovation distinguishes between a leader and a follower. Cloud JavaScript WebSo
 Opportunities don't happen. You create them. Cloud Virtual Machines Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Big Data JavaScript Microservices Load Balancing
 Great things never come from comfort zones. Edge Computing Algorithm Parallel Processing Stay hungry, stay foolish. Pull Request I find that the harder I work, the more luck I seem to have. Distributed Systems Security React Agile Big Data Predictive Analytics Code Review
 Zero Downtime Deployment Serverless Docker Cloud Functions Predictive Analytics GraphQL NLP Success is how high you bounce when you hit bottom. Firewalls Code Review
+Edge Computing Success doesn’t just find you. You have to go out and get it. Kubernetes Happiness is not something ready made. It comes from your own actions. API Framework Version Control
