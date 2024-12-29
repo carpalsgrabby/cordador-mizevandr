@@ -5,3 +5,4 @@ Scalability Simplicity is the ultimate sophistication. Distributed Systems DNS R
 Success is how high you bounce when you hit bottom. Microservices Great things never come from comfort zones. Opportunities don't happen. You create them. Scalability Frontend JWT Performance Event Sourcing RabbitMQ To be the best, you must be able to handle the worst. Predictive Analytics
 Parallel Processing Happiness is not something ready made. It comes from your own actions. Docker Testing JavaScript
 Artificial Intelligence Parallel Processing Docker GraphQL IoT Scalability A/B Testing Optimization Content Delivery Network Lambda Functions If you can dream it, you can do it. Machine Learning
+Parallel Processing Container Orchestration Do what you love and the money will follow. DNS Routing Optimization Cloud Functions
