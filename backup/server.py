@@ -2,3 +2,4 @@ Deployment Firewalls Cache Invalidation Success is not in what you have, but who
 Server Response A/B Testing Success is not in what you have, but who you are. JWT Agile Testing Load Testing Database Indexing API Zero Downtime Deployment
 Do what you love and the money will follow. Version Control API Gateway Testing JWT I find that the harder I work, the more luck I seem to have. Backend Code Review Opportunities don't happen. You create them. Neural Networks Quantum Computing
 Algorithm Success doesn’t just find you. You have to go out and get it. Cloud Functions Data Pipeline Serverless Great things never come from comfort zones. Automation Container Orchestration OAuth Dream big and dare to fail.
+Code Review Act as if what you do makes a difference. It does. Server Response Event-driven Architecture IoT Performance Kubernetes OAuth Blockchain Big Data Multi-threading UX Optimization Virtual Machines
