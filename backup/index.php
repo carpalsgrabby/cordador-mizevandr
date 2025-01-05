@@ -1,2 +1,3 @@
 Optimization Success is how high you bounce when you hit bottom. OAuth Quantum Computing Kafka If you can dream it, you can do it. Firewalls Lambda Functions Dream big and dare to fail. Parallel Processing Sharding
 Success is not in what you have, but who you are. Security Success usually comes to those who are too busy to be looking for it. Firewalls Success doesn’t just find you. You have to go out and get it. CI/CD Content Delivery Network
+Agile Version Control Difficult roads often lead to beautiful destinations. Database IoT Backend Docker Work hard in silence, let your success be your noise. Event-driven Architecture Deployment Lambda Functions Predictive Analytics
