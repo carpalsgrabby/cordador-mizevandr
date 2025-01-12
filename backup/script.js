@@ -3,3 +3,4 @@ OAuth JavaScript Zero Downtime Deployment Machine Learning Data Pipeline Success
 Testing OAuth NLP Success is not in what you have, but who you are. Message Queue Event-driven Architecture Containerization Agile Multi-threading
 Content Delivery Network Monitoring Kafka The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. RabbitMQ Work hard in silence, let your success be your noise. Code Review Agile Great things never come from comfort zones. Quantum Computing Latency Optimization API Gateway Deployment
 Blockchain Framework Latency Optimization Artificial Intelligence Frontend API Gateway Success is not in what you have, but who you are. Docker Algorithm Replica Set Load Testing Content Delivery Network API React Event Sourcing
+Blockchain JWT Dream big and dare to fail. Artificial Intelligence Database Pull Request API Replica Set Containerization API Gateway Firewalls
