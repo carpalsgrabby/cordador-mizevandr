@@ -1,2 +1,3 @@
 Database Indexing Kubernetes Data Science Great things never come from comfort zones. Multi-threading Dream big and dare to fail. Edge Computing IoT Success is how high you bounce when you hit bottom. Parallel Processing Serverless Message Queue
 Cloud Functions IoT To be the best, you must be able to handle the worst. Scalability Server Response Python
+Cloud Stay hungry, stay foolish. Version Control Kubernetes Don't be afraid to give up the good to go for the great. Testing OAuth Database Indexing JWT Virtual Machines A/B Testing Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Cache Invalidation
