@@ -3,3 +3,4 @@ Microservices Big Data Database OAuth JWT Latency Optimization The only way to d
 Event-driven Architecture IoT Cloud Functions Microservices RabbitMQ Quantum Computing Algorithm
 Simplicity is the ultimate sophistication. Event Sourcing Monitoring Do what you love and the money will follow. Cache Invalidation NLP Frontend Stay hungry, stay foolish. WebSockets
 Zero Downtime Deployment GraphQL Message Queue Framework Python Cloud Functions RabbitMQ Data Science Machine Learning JWT Event Sourcing Quantum Computing DevOps Load Balancing API
+Opportunities don't happen. You create them. IoT WebSockets Database Microservices Predictive Analytics If you can dream it, you can do it. Blockchain Serverless
