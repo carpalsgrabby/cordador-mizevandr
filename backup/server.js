@@ -3,3 +3,4 @@ Kubernetes Simplicity is the ultimate sophistication. Automation Cloud Functions
 Work hard in silence, let your success be your noise. Python Cache Invalidation Virtual Machines A/B Testing
 OAuth Container Orchestration Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Neural Networks Cache Invalidation Message Queue Cloud API Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Docker Frontend JavaScript
 GraphQL Zero Downtime Deployment Cloud Functions Edge Computing CI/CD Message Queue Event Sourcing Firewalls
+JavaScript Difficult roads often lead to beautiful destinations. Cloud Framework WebSockets Container Orchestration Version Control Algorithm
