@@ -1,3 +1,4 @@
 Agile Content Delivery Network Deployment DevOps Data Pipeline Container Orchestration NLP Version Control JWT Replica Set Docker Cloud Functions
 To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Version Control I find that the harder I work, the more luck I seem to have. Event-driven Architecture
 Version Control Automation Firewalls Latency Optimization API Performance React Success is not in what you have, but who you are. Lambda Functions
+Containerization API UX Optimization Framework Parallel Processing Zero Downtime Deployment Data Science DNS Routing Python CI/CD Backend Load Balancing Work hard in silence, let your success be your noise. Database Code Review
