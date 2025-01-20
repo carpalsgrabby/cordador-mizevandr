@@ -1,3 +1,4 @@
 Parallel Processing Machine Learning CI/CD Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Automation
 OAuth JavaScript Zero Downtime Deployment Machine Learning Data Pipeline Success doesn’t just find you. You have to go out and get it. Framework UX Optimization API Gateway Kafka
 Testing OAuth NLP Success is not in what you have, but who you are. Message Queue Event-driven Architecture Containerization Agile Multi-threading
+Content Delivery Network Monitoring Kafka The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. RabbitMQ Work hard in silence, let your success be your noise. Code Review Agile Great things never come from comfort zones. Quantum Computing Latency Optimization API Gateway Deployment
