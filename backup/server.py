@@ -1,2 +1,3 @@
 Deployment Firewalls Cache Invalidation Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst.
 Server Response A/B Testing Success is not in what you have, but who you are. JWT Agile Testing Load Testing Database Indexing API Zero Downtime Deployment
+Do what you love and the money will follow. Version Control API Gateway Testing JWT I find that the harder I work, the more luck I seem to have. Backend Code Review Opportunities don't happen. You create them. Neural Networks Quantum Computing
