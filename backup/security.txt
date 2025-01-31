@@ -1,2 +1,3 @@
 Deployment Agile IoT Backend DevOps If you can dream it, you can do it. Virtual Machines Firewalls Version Control
 GraphQL The only way to do great work is to love what you do. Frontend Load Balancing Pull Request Database Indexing A/B Testing Event-driven Architecture Server Response Monitoring Innovation distinguishes between a leader and a follower. Logging To be the best, you must be able to handle the worst. Python
+Deployment Pull Request React Predictive Analytics Testing Framework Cloud Cache Invalidation Virtual Machines Great things never come from comfort zones. Scalability
