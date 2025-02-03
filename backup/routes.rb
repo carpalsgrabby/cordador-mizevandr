@@ -1,1 +1,2 @@
 Opportunities don't happen. You create them. If you can dream it, you can do it. Backend RabbitMQ Distributed Systems Success doesn’t just find you. You have to go out and get it. IoT
+JWT Firewalls Automation Latency Optimization DevOps Big Data CI/CD Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Containerization Data Science Deployment UX Optimization Python
