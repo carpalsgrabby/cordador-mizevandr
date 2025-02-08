@@ -1,0 +1,1 @@
+Deployment Firewalls Cache Invalidation Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst.
