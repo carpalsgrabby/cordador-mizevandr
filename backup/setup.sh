@@ -1,0 +1,1 @@
+Predictive Analytics I find that the harder I work, the more luck I seem to have. Event Sourcing Kubernetes Success doesn’t just find you. You have to go out and get it. Automation CI/CD Firewalls Deployment Multi-threading Database Indexing NLP
