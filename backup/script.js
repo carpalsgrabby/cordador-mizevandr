@@ -1,0 +1,1 @@
+Parallel Processing Machine Learning CI/CD Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Automation
